@@ -6,66 +6,66 @@ The Badger's End runs on more than Mr. H. These are the people who keep the drin
 
 ## The Bar Staff
 
-### [Name TBD] — Senior Barkeeeper
+### Kildrak Faelor — Senior Barkeep
 
 > *"Sit down, I'll be right with you. And don't touch the good bottles on the top shelf."*
 
 | | |
 |-|-|
-| **Race** | *[TBD]* |
+| **Race** | Dwarf |
 | **Shift** | Evenings and busy nights |
 | **Vibe** | No-nonsense, efficient, quietly protective of the regulars |
 
 Mr. H's right hand behind the bar. Has been here long enough to know every regular's name, preferred drink, and general character. Doesn't say much but doesn't miss much either. The one who steps in quietly when a situation is about to become a situation.
 
 **Mannerism:** Wipes down the bar constantly, even when it's clean. Good listener. Hard to read.
-**Placeholder hook:** Has a background they don't talk about — could be anything from former soldier to former criminal to former something else entirely.
+**Story hook:** Has a background they don't talk about — could be anything from former soldier to former criminal to former something else entirely.
 
 ---
 
-### [Name TBD] — Junior Barkeep
+### Ellyjoybell Turen — Junior Barkeep
 
 > *"Sorry, was that two ales or three? Actually — three, right? Sorry."*
 
 | | |
 |-|-|
-| **Race** | *[TBD]* |
+| **Race** | Gnome |
 | **Shift** | All hours, whenever they're needed |
 | **Vibe** | Eager, slightly chaotic, genuinely trying their best |
 
 Newer to the job. Still learning the regulars. Occasionally gets orders wrong but makes up for it in enthusiasm and the ability to charm almost anyone into forgiving the mistake. The party's best source for overheard gossip because they're everywhere at once and people don't notice them.
 
 **Mannerism:** Talks fast when nervous (which is often). Has a habit of laughing at things slightly too late.
-**Placeholder hook:** Is trying to save up for something. Hasn't said what.
+**Story hook:** Is trying to save up for something. Hasn't said what.
 
 ---
 
-### [Name TBD] — Late Night Barkeep
+### Peril — Late Night Barkeep
 
 > *"Still here? Good. The interesting people always show up after midnight."*
 
 | | |
 |-|-|
-| **Race** | *[TBD]* |
+| **Race** | Tiefling |
 | **Shift** | Late nights only |
 | **Vibe** | Laconic, observant, slightly unsettling in a comfortable way |
 
 Works the hours when the tavern gets quiet and then gets strange. Has seen things come through those doors that they've never mentioned to anyone. Not unfriendly — just economical with words. Players who show up late might find them to be unexpectedly useful.
 
 **Mannerism:** Never seems surprised by anything. Pours drinks without being asked.
-**Placeholder hook:** Knows at least one secret about a regular that nobody else knows.
+**Story hook:** Knows at least one secret about a regular that nobody else knows.
 
 ---
 
 ## The Kitchen
 
-### [Name TBD] — Head Chef / Cook
+### Chef Riak — Head Chef / Cook
 
 > *"Out of my kitchen. Unless you're eating, in which case sit down and don't complain about the onions."*
 
 | | |
 |-|-|
-| **Race** | *[TBD]* |
+| **Race** | Orc |
 | **Domain** | The kitchen; occasionally the whole tavern when they feel like it |
 | **Vibe** | Passionate, territorial, secretly one of the warmest people in the building |
 
@@ -75,7 +75,7 @@ The kitchen is one of the few places in the tavern that feels genuinely private.
 
 **Mannerism:** Speaks in short, direct sentences except when describing food, at which point they become a poet.
 **Signature dish:** *[TBD — let a player ask]*
-**Placeholder hook:** Sources ingredients from somewhere they're vague about. The food is always exceptional.
+**Story hook:** Sources ingredients from somewhere they're vague about. The food is always exceptional.
 
 ---
 

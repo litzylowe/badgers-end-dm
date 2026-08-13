@@ -1,4 +1,4 @@
-# [Name TBD] — The Merchant
+# Mira Kael — The Merchant
 
 > *"Everything has a price. The trick is knowing which price is fair and which one is interesting."*
 
@@ -8,9 +8,9 @@
 
 | | |
 |-|-|
-| **Race** | *[To be decided by the group]* |
+| **Race** | Halfling |
 | **Role** | General goods merchant; regular at the Badger's End |
-| **Status** | Anchor NPC — placeholder, name and race TBD |
+| **Status** | Story anchor — name & race set |
 | **Shop Location** | Market district, near the tavern *(exact location TBD)* |
 | **Specialty** | General adventuring supplies; occasionally rare or unusual items |
 
@@ -63,8 +63,8 @@ The merchant is the party's **economy anchor** — the person they sell loot to 
 
 ## Placeholder Details *(fill in as campaign develops)*
 
-- **Name:** *[TBD]*
-- **Race:** *[TBD]*
+- **Name:** Mira Kael
+- **Race:** Halfling
 - **Shop name:** *[TBD]*
 - **One supplier they'd rather nobody know about:** *[TBD]*
 - **Something they're quietly looking for:** *[TBD]*

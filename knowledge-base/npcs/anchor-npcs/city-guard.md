@@ -1,4 +1,4 @@
-# [Name TBD] — City Guard
+# Captain Wren — City Guard
 
 > *"I'm not asking you to do anything official. I'm asking as someone who's tired."*
 
@@ -8,9 +8,9 @@
 
 | | |
 |-|-|
-| **Race** | *[To be decided by the group]* |
+| **Race** | Human |
 | **Role** | City guard, patrol officer for the tavern district |
-| **Status** | Anchor NPC — placeholder, name and race TBD |
+| **Status** | Story anchor — name & race set |
 | **Patrol Area** | The Badger's End block + surrounding market streets |
 | **Relationship to Tavern** | Regular; drinks there after shifts, knows Mr. H by name |
 
@@ -62,8 +62,8 @@ The guard is the party's **bridge into city business**. They don't hire adventur
 
 ## Placeholder Details *(fill in as campaign develops)*
 
-- **Name:** *[TBD — let a DM name them in session 1 or 2]*
-- **Race:** *[TBD]*
+- **Name:** Captain Wren
+- **Race:** Human
 - **Rank:** Patrol Officer / *[TBD]*
 - **Years on the job:** *[TBD]*
 - **One thing they've never told anyone:** *[TBD]*

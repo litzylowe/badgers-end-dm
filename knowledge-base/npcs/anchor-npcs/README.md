@@ -12,12 +12,12 @@ Anchor NPCs are permanent fixtures. Every DM plays them consistently. When in do
 |-----|------|--------|--------------|
 | [Mr. H](mr-h.md) | Head bartender; Satyr from the Fae Wild | ✅ Established | High — why did he stay? |
 | [Mr. Hoots](mr-hoots.md) | The owl; always watching | ✅ Established | Very High — what is he? |
-| [City Guard](city-guard.md) | Patrol officer; bridge to city trouble | 🔲 Placeholder | Low — straightforward |
-| [Merchant](merchant.md) | General goods; rumors from the port | 🔲 Placeholder | Low-Medium |
-| [Wizard](wizard.md) | Scholar; obsessive; occasional chaos | 🔲 Placeholder | Medium — what are they researching? |
-| [Bar Staff & Chef](bar-staff.md) | Senior barkeep, junior barkeep, late-night barkeep, chef | 🔲 Placeholder | Low |
-| [City Leader](city-leader.md) | Mayor/Governor; political authority over the city | 🔲 Placeholder | Medium-High — what compromises have they made? |
-| [Cleric](cleric.md) | Temple healer; spiritual anchor; divine services | 🔲 Placeholder | Medium — who do they protect and why? |
+| [Captain Wren](city-guard.md) | Patrol officer; bridge to city trouble | 📖 Story anchor · Human | Low — straightforward |
+| [Mira Kael](merchant.md) | General goods; rumors from the port | 📖 Story anchor · Halfling | Low-Medium |
+| [Aldric Fenn](wizard.md) | Scholar; obsessive; occasional chaos | 📖 Story anchor · Human | Medium — what are they researching? |
+| [Bar Staff & Chef](bar-staff.md) | Kildrak Faelor, Ellyjoybell Turen, Peril, Chef Riak | 📖 Story · named | Low |
+| [Governor Ashvale](city-leader.md) | Mayor/Governor; political authority over the city | 📖 Story anchor · Half-Elf | Medium-High — what compromises have they made? |
+| [Sister Corvin](cleric.md) | Temple healer; spiritual anchor; divine services | 📖 Story anchor · Human | Medium — who do they protect and why? |
 
 ---
 

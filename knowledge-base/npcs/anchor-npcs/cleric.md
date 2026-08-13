@@ -1,4 +1,4 @@
-# [Name TBD] — The Cleric
+# Sister Corvin — The Cleric
 
 > *"I don't ask why you need healing. I ask whether you're going to keep doing the thing that got you here."*
 
@@ -8,9 +8,9 @@
 
 | | |
 |-|-|
-| **Race** | *[To be decided by the group]* |
+| **Race** | Human |
 | **Role** | Cleric; spiritual authority; healer |
-| **Status** | Anchor NPC — placeholder, name and details TBD |
+| **Status** | Story anchor — name & race set |
 | **Deity** | *[TBD — leave open for the group or tie to a paladin/cleric PC's faith]* |
 | **Base** | The local temple or shrine *(location TBD)*; occasional presence at the Badger's End |
 | **Relationship to Tavern** | Comes in more than you'd expect. Mr. H pours their drink without being asked. |
@@ -84,8 +84,8 @@ The city leader is aware of them. They are not entirely comfortable with each ot
 
 ## Placeholder Details *(fill in as campaign develops)*
 
-- **Name:** *[TBD]*
-- **Race:** *[TBD]*
+- **Name:** Sister Corvin
+- **Race:** Human
 - **Deity:** *[TBD — consider tying to a PC's faith if relevant]*
 - **Temple name and location:** *[TBD]*
 - **One person they've brought back who probably shouldn't have come back:** *[TBD]*

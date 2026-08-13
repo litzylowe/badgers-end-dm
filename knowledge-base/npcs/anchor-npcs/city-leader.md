@@ -1,4 +1,4 @@
-# [Name TBD] — Mayor / City Leader
+# Governor Ashvale — Mayor / City Leader
 
 > *"This city runs because everyone in it believes it runs. The moment they stop believing that, my job becomes very difficult. So let's keep things quiet, shall we?"*
 
@@ -8,9 +8,9 @@
 
 | | |
 |-|-|
-| **Race** | *[To be decided by the group]* |
+| **Race** | Half-Elf |
 | **Role** | Mayor, Governor, or equivalent city authority *(title TBD)* |
-| **Status** | Anchor NPC — placeholder, name and details TBD |
+| **Status** | Story anchor — name & race set |
 | **Office Location** | City hall or equivalent *(location TBD)* |
 | **Relationship to Tavern** | Aware of it; may have visited; doesn't advertise the connection |
 
@@ -75,9 +75,9 @@ They don't become a friend. They might become an ally of convenience.
 
 ## Placeholder Details *(fill in as campaign develops)*
 
-- **Name:** *[TBD]*
+- **Name:** Governor Ashvale
 - **Title:** Mayor / Governor / Councilor / *[TBD — whatever fits the setting]*
-- **Race:** *[TBD]*
+- **Race:** Half-Elf
 - **How long in power:** *[TBD]*
 - **The compromise they most regret:** *[TBD]*
 - **Who they actually answer to:** *[TBD — a noble? a council? nobody?]*

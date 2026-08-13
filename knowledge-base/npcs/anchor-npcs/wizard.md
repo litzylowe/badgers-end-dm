@@ -1,4 +1,4 @@
-# [Name TBD] — The Wizard
+# Aldric Fenn — The Wizard
 
 > *"Yes, yes, I heard you, I'm just also thinking about seventeen other things — what did you say your name was? Doesn't matter, look at THIS—"*
 
@@ -8,9 +8,9 @@
 
 | | |
 |-|-|
-| **Race** | *[To be decided by the group]* |
+| **Race** | Human |
 | **Role** | Scholar, researcher, occasional disaster |
-| **Status** | Anchor NPC — placeholder, name and race TBD |
+| **Status** | Story anchor — name & race set |
 | **Base of Operations** | A table in the corner of the Badger's End (and presumably somewhere with more bookshelves) |
 | **Specialty** | Whatever they're currently obsessed with |
 
@@ -74,8 +74,8 @@ They might also need rescuing. Frequently.
 
 ## Placeholder Details *(fill in as campaign develops)*
 
-- **Name:** *[TBD — something they introduced themselves with but nobody caught]*
-- **Race:** *[TBD]*
+- **Name:** Aldric Fenn
+- **Race:** Human
 - **Affiliated institution:** *[TBD — a mage college? self-taught? expelled from somewhere?]*
 - **The experiment that went wrong:** *[TBD]*
 - **What Mr. H thinks of them:** *[TBD — probably fond, definitely exhausted]*
